@@ -68,3 +68,4 @@ Actuator Health Link: [LocalHost Actuator-Health](http://localhost:8080/actuator
 =>RestController -> @GetMapping -> getAllMovies() -> return MovieList
 ## 2. Spring Boot
 
+
