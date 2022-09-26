@@ -25,7 +25,7 @@ Terminal: Tomcat started on port(s): 8080 (http) with context path ''
 
                 Tomcat Server is autoconfigured => Servlet Container Configurations Default
 ```
-![This is an image](/asserts/1.PNG)
+![This is an image](/src/asserts/1.PNG)
 
 ## ----------------------------------------
 # Application Layering
