@@ -1,3 +1,5 @@
+![This is an image](/src/asserts/0.PNG)
+
 ### Between Two Application Communication => API => Data:XML/JSON
 
 Client => Browser
@@ -63,6 +65,8 @@ Actuator Health Link: [LocalHost Actuator-Health](http://localhost:8080/actuator
 ## 1. Spring MVC
 ### Spring MVC Design Pattern
 ![This is an image](/src/asserts/2.PNG)
+![This is an image](/src/asserts/3.PNG)
+
 ==>This pattern can we called as SPRING CONTAINER
 
 =>RestController -> @GetMapping -> getAllMovies() -> return MovieList
