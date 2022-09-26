@@ -62,7 +62,7 @@ Actuator Health Link: [LocalHost Actuator-Health](http://localhost:8080/actuator
 # SPRING FRAMEWORK
 ## 1. Spring MVC
 ### Spring MVC Design Pattern
-![This is an image](https://www.researchgate.net/publication/349049076/figure/fig5/AS:987779097980929@1612516297095/The-Spring-MVC-architecture-as-depicted-in-16.ppm)
+![This is an image](/src/asserts/2.PNG)
 ==>This pattern can we called as SPRING CONTAINER
 
 =>RestController -> @GetMapping -> getAllMovies() -> return MovieList
