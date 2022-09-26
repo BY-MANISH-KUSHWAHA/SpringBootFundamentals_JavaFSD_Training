@@ -56,3 +56,15 @@ Terminal: Tomcat started on port(s): 8080 (http) with context path ''
 ## => Spring Web
 
 # ACTUATOR
+## Actuator Main Link: [LocalHost Actuator](http://localhost:8080/actuator).
+Actuator Health Link: [LocalHost Actuator-Health](http://localhost:8080/actuator/health).
+
+# SPRING FRAMEWORK
+## 1. Spring MVC
+### Spring MVC Design Pattern
+![This is an image](https://www.researchgate.net/publication/349049076/figure/fig5/AS:987779097980929@1612516297095/The-Spring-MVC-architecture-as-depicted-in-16.ppm)
+==>This pattern can we called as SPRING CONTAINER
+
+=>RestController -> @GetMapping -> getAllMovies() -> return MovieList
+## 2. Spring Boot
+
